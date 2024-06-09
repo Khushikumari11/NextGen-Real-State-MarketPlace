@@ -36,7 +36,7 @@ The NextGen Real State Marketplace project aims to revolutionize the way people 
 
 ## Demo
 
-Here's a quick demo of the Todolist application:
+Here's a quick demo of the application:
 
 https://staybnb-estate.onrender.com/
 
